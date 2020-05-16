@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidclient</string>
+    <string name="authorize">Войти</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_error">Логин должен состоять минимум из 1 символа и без пробелов!</string>
+    <string name="password_error">Пароль должен состоять минимум из 1 символа и без пробелов!</string>
+    <string name="wrong_login_or_password">Неверный логин или пароль.</string>
+</resources>

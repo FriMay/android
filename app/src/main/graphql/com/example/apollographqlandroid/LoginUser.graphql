@@ -1,0 +1,11 @@
+query loginUser($login:String!, $password:String!){
+    login(login:$login, password:$password){
+        id
+        firstName
+        secondName
+        lastName
+        userRole{
+            roleName
+        }
+    }
+}
