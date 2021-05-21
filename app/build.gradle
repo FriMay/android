@@ -38,6 +38,6 @@ dependencies {
 
     implementation("com.apollographql.apollo:apollo-runtime:1.2.0")
 
-    compileOnly("org.jetbrains:annotations:13.0")
+    compileOnly("org.jetbrains:annotations:21.0.0")
     testCompileOnly("org.jetbrains:annotations:13.0")
 }
